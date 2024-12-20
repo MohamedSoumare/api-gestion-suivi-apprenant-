@@ -23,13 +23,13 @@ Avant de commencer, vous avez besoin de :
 ### 1. Clonez le dépôt :
 
 ```bash
-https://github.com/semthillo/API-Student-Manager.git
+https://github.com/MohamedSoumare/api-gestion-suivi-apprenant-.git
 ```
 
 ### 2. Accédez au dossier du projet :
 
 ```bash
-cd API-Student-Manager
+cd api-gestion-suivi-apprenant-.git
 ```
 
 ### 3. Installez les dépendances :
@@ -44,6 +44,10 @@ npm install
 - Remplissez vos informations de connexion à PostgreSQL dans le fichier .env.sample.
 
 ### 5. Configurez Prisma :
+
+```bash
+npx prisma migrate deploy
+```
 
 ### 6. Démarrez le projet :
 
@@ -85,8 +89,5 @@ Pour voir les endpoints, importez la collection Postman dans votre application :
     Supprimer un paiement.
 
 ## Auteur
-[semThillo](https://github.com/semthillo)
-
-[MohamedAbdallah](https://github.com/Mohamed11abdallah)
 
 [MohamedSoumare](https://github.com/MohamedSoumare)
