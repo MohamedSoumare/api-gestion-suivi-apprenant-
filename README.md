@@ -23,7 +23,7 @@ Avant de commencer, vous avez besoin de :
 ### 1. Clonez le dépôt :
 
 ```bash
-https://github.com/MohamedSoumare/api-gestion-suivi-apprenant-.git
+git clone https://github.com/MohamedSoumare/api-gestion-suivi-apprenant-.git
 ```
 
 ### 2. Accédez au dossier du projet :
